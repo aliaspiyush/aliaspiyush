@@ -1,226 +1,346 @@
-# Hi there, I'm Piyush Ghosh 👋
-
-> **AI Generalist · Full-Stack Builder · Founder**  
-> Architecting intelligent systems at the intersection of software, systems, and applied intelligence
-
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/aliaspiyush?logo=github&style=flat-square)](https://github.com/aliaspiyush?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/aliaspiyush?style=flat-square)](https://github.com/aliaspiyush)
-[![Website](https://img.shields.io/badge/Website-thegravitylabs.in-4285F4?style=flat-square&logo=google-chrome)](https://thegravitylabs.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aliaspiyush-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aliaspiyush)
+<img src="https://avatars.githubusercontent.com/u/169071094?v=4" width="120" style="border-radius:50%" alt="Piyush Ghosh"/>
+
+# Piyush Ghosh
+
+**`< Vibe Coder >`** · AI Generalist · Full-Stack Builder · Founder
+
+[![GitHub followers](https://img.shields.io/github/followers/aliaspiyush?logo=github&style=flat-square&color=0f0f0f&labelColor=1a1a2e)](https://github.com/aliaspiyush?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/aliaspiyush?style=flat-square&color=0f0f0f&labelColor=1a1a2e&logo=github)](https://github.com/aliaspiyush)
+[![Website](https://img.shields.io/badge/thegravitylabs.in-000?style=flat-square&logo=vercel&logoColor=white)](https://thegravitylabs.in)
+[![LinkedIn](https://img.shields.io/badge/aliaspiyush-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliaspiyush)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I'm building **AI-native products and intelligent systems** that solve real-world problems. As the founder of **Gravity Labs**, I focus on:
+> Architecting intelligent systems at the intersection of software, applied AI, and real-world impact.
+> BCA @ Techno India University · Founder @ [Gravity Labs](https://thegravitylabs.in) · Business Admin @ Stitch & Soul
 
-- **LLM Systems & RAG Pipelines**: Designing robust retrieval-augmented generation patterns and multi-agent workflows
-- **Agentic AI**: Building autonomous systems that reason, adapt, and coordinate at scale
-- **SaaS Architecture**: Full-stack Next.js/React applications with Supabase, Vercel, and Google Cloud
-- **Civic-Tech & Decision Support**: Using AI to empower democratic processes and organizational decision-making
-- **Product-First Development**: Balancing technical depth with strong UX and clean system design
-
-**Currently:** BCA student at Techno India University (graduating 2027) | Business Administrator at Stitch & Soul
+</div>
 
 ---
 
-## 💼 Featured Projects
+## 🧠 What I Build
 
-### 🏟️ **Hybrid Agent Mesh** — Multi-Agent Smart Stadium Platform
-**Status:** Production-Ready | **Tech:** Next.js 16 · TypeScript · Zustand · Google Gemini  
-**Live:** [hybrid-agent-mesh.vercel.app](https://hybrid-agent-mesh.vercel.app)
-
-A real-time operational intelligence platform for large-scale venues. Five specialized agents (Crowd Flow, Queue Optimizer, Staff Dispatch, Incident Coordination, Fan Experience) coordinate via a shared state mesh to solve crowd management across three synchronized interfaces: attendee mobile, staff dispatch, and ops dashboard.
-
-**Why it matters:** Eliminates reactive stadium management—agents anticipate bottlenecks before fans feel them.  
-**Architecture:** Browser-first execution with optional Gemini AI live mode for real-time optimization.
-
----
-
-### 🗳️ **VoteWise** — AI-Powered Indian Election Guide
-**Status:** Production | **Tech:** React 19 · Node.js · Google Gemini · Firebase · Cloud Run  
-**Live:** [vote-wise-seven.vercel.app](https://vote-wise-seven.vercel.app)
-
-Multilingual AI chatbot helping Indian voters understand elections. Combines streaming Gemini AI responses with civic features: interactive 7-phase timeline, personalized voter checklists, ECI-compliant quizzes, and voice input in Hindi/English/Bengali.
-
-**Impact:** Lowering voter confusion through accessible, AI-native civic education.  
-**Stack:** Server-Sent Events for live streaming, GCP Secret Manager for secure key handling, Firestore for session persistence.
-
----
-
-### 🏛️ **CivicLens** — AI-Driven Constituency Development Planning
-**Status:** Hackathon Demo | **Tech:** Next.js 16 · TypeScript · Google Gemini 2.5 · Supabase  
-**Live:** [civic-lens-blue.vercel.app](https://civic-lens-blue.vercel.app)
-
-Unified portal for Members of Parliament. Synthesizes unstructured, multilingual citizen feedback into structured development priorities. Built with hallucination safeguards (Amber Warning Badges) to catch fabricated AI statistics in real-time.
-
-**Innovation:** Multi-lingual intake, Gemini-powered entity extraction and cross-referencing against municipal datasets, transparency-first design.  
-**GIGW Compliant:** Built to Indian Government website accessibility standards.
-
----
-
-### 🔍 **Perspex** — AI Recruiter That Sees Real Signal
-**Status:** Production | **Tech:** React 19 · Vite · Google Gemini 2.5 Flash · Vanilla CSS  
-**Live:** [perspex.vercel.app](https://perspex.vercel.app)
-
-Next-generation candidate ranking system that moves beyond keyword matching. Uses Gemini's language understanding to evaluate candidates the way senior recruiters do—contextually.
-
-**Scoring Formula:**
 ```
-0.40 × Semantic Fit (Gemini contextual analysis)
-0.30 × Behavioral Signals (GitHub, publications, activity)
-0.20 × Experience Depth (seniority, trajectory)
-0.10 × Preference Fit (remote, notice period, work mode)
+LLM Systems & RAG Pipelines    →  Retrieval-augmented generation, multi-agent orchestration
+Agentic AI                     →  Autonomous systems that reason, coordinate, and adapt at scale
+Full-Stack SaaS                →  Next.js · React · Supabase · Vercel · Google Cloud
+Civic-Tech & AI Products       →  Applying AI to democratic processes and public good
+Corporate Web Platforms        →  End-to-end design + development for businesses
 ```
-
-**Features:** Live AI streaming, transparent per-candidate reasoning, CSV/XLSX export, honeypot detection.
-
----
-
-### 🧠 **MindAnchor** — Mental Health & Cognitive Support System
-**Status:** Active Development | **Tech:** Next.js 16 · TypeScript · Supabase · Google Gemini · Recharts  
-**Live:** [mind-anchor-brown.vercel.app](https://mind-anchor-brown.vercel.app)
-
-Comprehensive mental wellness platform combining mood tracking, AI-powered journal analysis, and personalized support recommendations. Designed for early intervention and long-term cognitive health.
-
-**Key Features:** Real-time sentiment analysis, AI-generated coping strategies, mood trend analytics, crisis resource escalation.
-
----
-
-### 💬 **AI Chatbot Template** — Production-Ready Chat UI
-**Status:** Open-Source | **Tech:** Next.js 13 · Vercel AI SDK · Supabase Auth · shadcn/ui  
-**Live:** [chatbotgravity.vercel.app](https://chatbotgravity.vercel.app)
-
-Fork of the Vercel AI Chatbot template, customized for Gravity Labs. Features multi-model support (OpenAI, Anthropic, Hugging Face), RSC-powered streaming, and persistent chat history.
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend**
-- **Frameworks:** Next.js 16, React 19, Vite
-- **Styling:** Tailwind CSS 4, shadcn/ui, Radix UI, CSS Modules
-- **State:** Zustand, React Context, Server Actions
-- **Charting:** Recharts
-- **UI Libraries:** Lucide Icons, Framer Motion
-
-### **Backend & Infrastructure**
-- **Serverless:** Vercel, Google Cloud Run, Firebase Hosting
-- **Database:** Supabase (PostgreSQL), Firestore
-- **Auth:** Supabase Auth, GitHub OAuth, Firebase Auth
-- **APIs:** Express.js, Next.js API Routes
-- **Secrets:** Google Secret Manager
-
-### **AI & ML**
-- **Primary:** Google Gemini 2.5 (Flash & Pro)
-- **SDKs:** `@google/generative-ai`, Vercel AI SDK
-- **Patterns:** RAG, multi-agent coordination, streaming SSE, prompt chaining
-- **Output Formats:** Structured JSON schemas (Zod), fallback text
-
-### **DevOps & CI/CD**
-- **Version Control:** Git, GitHub
-- **Build:** TypeScript, ESLint, Prettier
-- **Deployment:** Vercel, Cloud Build, Docker
-- **Monitoring:** Vercel Analytics
 
 ---
 
 ## 🏢 Gravity Labs Ecosystem
 
-I'm building Gravity Labs as a sharper product + services ecosystem:
+<div align="center">
 
-- **Gravity Studio** — Design-led digital experiences, branding systems, UI kits, growth assets
-- **Gravity Blogs** — Thought leadership on AI systems, product design, startup lessons
-- **Gravity Portal** — Founder resource hub and community for builders
+| | Product | Description | Link |
+|--|---------|-------------|------|
+| 🚀 | **Gravity Studio** | AI-native Digital Growth Agency | [thegravitylabs.in](https://thegravitylabs.in) |
+| 📝 | **Gravity Blogs** | Indian-origin editorial & thought leadership platform | [thegravitylabs.in](https://thegravitylabs.in) |
+| 🎓 | **Gravity Portal** | AI-powered educational platform *(prototype)* | [thegravitylabs.in](https://thegravitylabs.in) |
 
-**Mission:** Bridge the gap between high-level AI concepts and production-grade implementation.
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 🗂️ Projects
+
+### 🌐 Corporate & Business Websites
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏢 [Aegiscore Industries](https://github.com/aliaspiyush/aegiscore-industries)
+
+> Corporate website for Aegiscore Industries — parent org managing subsidiaries across Food Franchising and EdTech.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square)
+
+**Role:** Full Stack Developer  
+**Stack:** React · TypeScript · REST APIs · Responsive UI
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 [Gravity Labs](https://github.com/aliaspiyush/thegravitylabs)
+
+> Complete digital ecosystem for Gravity Labs — parent platform for AI-first products and businesses.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Modular](https://img.shields.io/badge/Modular_Architecture-6C3483?style=flat-square)
+![Live](https://img.shields.io/badge/Live-thegravitylabs.in-00C851?style=flat-square&logo=vercel)
+
+**Role:** Founder & Full Stack Developer  
+**Live →** [thegravitylabs.in](https://thegravitylabs.in)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 [Eight-Eight Studio](https://github.com/aliaspiyush/eighteightstudio)
+
+> Official website for Eight-Eight Studio — full frontend, backend integration, and deployment.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-1a1a2e?style=flat-square)
+
+**Role:** Full Stack Developer  
+**Stack:** React · Full Stack Architecture · REST APIs
+
+</td>
+<td width="50%" valign="top">
+
+#### 👕 [Stitch & Soul](https://github.com/aliaspiyush/stitchandsoul)
+
+> Complete UX/UI design for Stitch & Soul — CCU STICH AND SOUL LLP's brand website.
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-8B5CF6?style=flat-square)
+![UX](https://img.shields.io/badge/UX_Design-0EA5E9?style=flat-square)
+
+**Role:** UI/UX Designer  
+**Stack:** Figma · Design Systems · Responsive Interface
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ [India Development Company](https://github.com/eighteightstudio/india-dev-company)
+
+> Website for an industrial manufacturer specializing in precision metal components and hard chrome plating.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square)
+
+**Role:** Full Stack Developer  
+**Stack:** React · JavaScript · REST APIs
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌍 [Dey Global Exporters](https://github.com/eighteightstudio/dey-global-exporters)
+
+> Official website for an exporter of premium raw Indian human hair serving international markets.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Responsive](https://img.shields.io/badge/Responsive_Design-06B6D4?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend_Integration-374151?style=flat-square)
+
+**Role:** Full Stack Developer  
+**Stack:** React · Responsive Web Design · Backend Integration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+#### 🏍️ [Zaku Builds](https://github.com/aliaspiyush/zakuubuilds)
+
+> Website for a Karnataka-based manufacturer of premium motorcycle tank skins and accessories for Royal Enfield.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Responsive](https://img.shields.io/badge/Responsive_Design-06B6D4?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend_APIs-374151?style=flat-square)
+
+**Role:** Full Stack Developer &nbsp;|&nbsp; **Stack:** React · Responsive Design · Backend APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🤖 AI-Powered Products
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔍 [Perspex](https://github.com/aliaspiyush/perspex)
+
+> AI recruitment intelligence platform — evaluates candidates vs. JDs and generates ranked hiring recommendations.
+
+![LLM](https://img.shields.io/badge/LLM-7C3AED?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![Live](https://img.shields.io/badge/Live-perspex.vercel.app-00C851?style=flat-square&logo=vercel)
+
+**Stack:** LLMs · AI Candidate Ranking · Prompt Engineering  
+**Live →** [perspex.vercel.app](https://perspex.vercel.app)
 
 ```
-Commits         Active Development on Multiple AI/Civic-Tech Projects
-Contributions   Week-over-week growth in agentic systems & full-stack work
-Focus Areas     LLM Pipelines, Multi-Agent Systems, SaaS Architecture
-Recent Work     VoteWise, CivicLens, Hybrid Agent Mesh, MindAnchor
+Score = 0.40 × Semantic Fit
+      + 0.30 × Behavioral Signals
+      + 0.20 × Experience Depth
+      + 0.10 × Preference Fit
 ```
 
+</td>
+<td width="50%" valign="top">
+
+#### ❤️ [Mind Anchor](https://github.com/aliaspiyush/MindAnchor)
+
+> AI platform to monitor mental well-being of NEET/JEE aspirants through intelligent behavioral assessment.
+
+![LLM](https://img.shields.io/badge/LLM-7C3AED?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Live](https://img.shields.io/badge/Live-mind--anchor.vercel.app-00C851?style=flat-square&logo=vercel)
+
+**Stack:** LLMs · AI Analytics · Dashboard UI · Mental Health Intelligence  
+**Live →** [mind-anchor-brown.vercel.app](https://mind-anchor-brown.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤝 [Hybrid Agent Mesh](https://github.com/aliaspiyush/hybrid-agent-mesh)
+
+> Multi-agent coordination platform for large-scale venues — AI-driven crowd management with role-based dashboards.
+
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_AI-DC2626?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Live](https://img.shields.io/badge/Live-hybrid--agent--mesh.vercel.app-00C851?style=flat-square&logo=vercel)
+
+**Stack:** Multi-Agent AI · Agent Orchestration · Real-Time Dashboards  
+**Live →** [hybrid-agent-mesh.vercel.app](https://hybrid-agent-mesh.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+#### 💰 [IDBI Digi Saathi](https://github.com/aliaspiyush/idbi-digisaathi)
+
+> AI banking assistant (IDBI Hackathon) — personalized financial insights, investment recommendations, and loan assistance.
+
+![Conversational AI](https://img.shields.io/badge/Conversational_AI-059669?style=flat-square)
+![Voice AI](https://img.shields.io/badge/Voice_AI-7C3AED?style=flat-square)
+![Hackathon](https://img.shields.io/badge/Hackathon-IDBI_Bank-F59E0B?style=flat-square)
+
+**Stack:** Conversational AI · Voice AI · Financial Intelligence · Recommendation Engine
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎯 Current Focus
+### 🏛️ Civic-Tech & Government AI
 
-1. **Architecting practical agentic AI systems** — Moving beyond chatbots to coordinated multi-agent workflows
-2. **Robust RAG patterns** — Building reliable, transparent retrieval systems that ground LLM responses
-3. **Production-ready SaaS** — Combining strong UX with scalable backends and thoughtful deployment
-4. **Civic-tech impact** — Applying AI to democratic processes, accessibility, and public good
-5. **Scaling Gravity Labs** — From founder experiments to shareable products and services
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏛️ [CivicLens](https://github.com/aliaspiyush/CivicLens)
+
+> Civic intelligence platform — citizens report issues via voice/text/image; AI clusters complaints into constituency insights for MPs.
+
+![AI Analytics](https://img.shields.io/badge/AI_Analytics-1D4ED8?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square)
+![Live](https://img.shields.io/badge/Live-civic--lens.vercel.app-00C851?style=flat-square&logo=vercel)
+
+**Stack:** AI Analytics · Computer Vision · GIS Heat Maps · Voice Processing  
+**Live →** [civic-lens-blue.vercel.app](https://civic-lens-blue.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗳️ [VoteWise](https://github.com/aliaspiyush/VoteWise)
+
+> AI election assistant for Indian citizens — voter registration, schedules, voter card issues, first-time voting guidance.
+
+![Conversational AI](https://img.shields.io/badge/Conversational_AI-059669?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-6366F1?style=flat-square)
+![Live](https://img.shields.io/badge/Live-vote--wise.vercel.app-00C851?style=flat-square&logo=vercel)
+
+**Stack:** Conversational AI · NLP · Personalized Recommendation  
+**Live →** [vote-wise-seven.vercel.app](https://vote-wise-seven.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🇮🇳 [Nagrik AI](https://github.com/aliaspiyush/nagarik_ai)
+
+> Unified AI citizen assistant — discover government schemes, public services, and personalized welfare opportunities.
+
+![LLM](https://img.shields.io/badge/LLM-7C3AED?style=flat-square)
+![Gov AI](https://img.shields.io/badge/Government_AI-FF6600?style=flat-square)
+![Recommendation](https://img.shields.io/badge/AI_Recommendation-10B981?style=flat-square)
+
+**Stack:** LLMs · Government Service Intelligence · AI Recommendation Engine
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌱 [EarthPulse](https://github.com/aliaspiyush/EarthPulse)
+
+> Environmental intelligence platform — tracks personal carbon emissions, measures footprints, provides sustainability insights.
+
+![Environmental AI](https://img.shields.io/badge/Environmental_AI-16A34A?style=flat-square)
+![Data Viz](https://img.shields.io/badge/Data_Visualization-0EA5E9?style=flat-square)
+![Sustainability](https://img.shields.io/badge/Sustainability-15803D?style=flat-square)
+
+**Stack:** Environmental Analytics · Sustainability Metrics · AI Insights
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Working Philosophy
+## 🛠️ Tech Stack
 
-- **Truth over agreement** — Direct feedback beats politeness
-- **Systems thinking** — Deep dives before surface-level polish
-- **Rapid iteration** — Build fast, then architect cleanly
-- **Business execution** — Technical depth without losing sight of value
-- **Design-first AI** — User experience is as important as the model
+<div align="center">
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 🔗 Connect
-
-| Channel | Link |
-|---------|------|
-| **GitHub** | [@aliaspiyush](https://github.com/aliaspiyush) |
-| **LinkedIn** | [aliaspiyush](https://www.linkedin.com/in/aliaspiyush) |
-| **Website** | [thegravitylabs.in](https://thegravitylabs.in) |
-| **Email** | [Reach out via LinkedIn DM](https://www.linkedin.com/in/aliaspiyush) |
+</div>
 
 ---
 
-## 📝 Repository Guide
+## 📊 GitHub Stats
 
-| Repo | Purpose | Status |
-|------|---------|--------|
-| **hybrid-agent-mesh** | Multi-agent stadium ops platform | ✅ Production |
-| **VoteWise** | AI election guide for Indian voters | ✅ Production |
-| **CivicLens** | MP constituency development planning | 🔄 Active |
-| **perspex** | AI-native candidate ranking system | ✅ Production |
-| **MindAnchor** | Mental health & cognitive support | 🔄 Active |
-| **chatbot** | Production-ready chat UI template | ✅ Stable |
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aliaspiyush&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaspiyush&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-## 🎓 Learning & Growth
-
-**Current:** BCA at Techno India University | Graduating 2027  
-**Focus:** Bridging academic computer science with real-world AI product development
-
-**Key Skills Demonstrated:**
-- Full-stack TypeScript development (Next.js, React, Node.js)
-- LLM integration and prompt engineering
-- Multi-agent system design and coordination
-- Database design (Supabase, Firestore)
-- Cloud deployment (Vercel, GCP, Firebase)
-- UI/UX thinking and design systems
-- Civic-tech and public sector problem-solving
+</div>
 
 ---
 
 ## ⚡ Quick Facts
 
 - 🌍 Based in **Kolkata, India**
-- 💼 Founder, **Gravity Labs** (AI-native SaaS + Services)
-- 📚 **Ops & Strategy** at Stitch & Soul
-- 🎯 Obsessed with **agentic AI** and **RAG pipelines**
+- 🎓 **BCA @ Techno India University** — Graduating 2027
+- 🚀 **Founder, Gravity Labs** — [thegravitylabs.in](https://thegravitylabs.in)
+- 💼 **Business Admin @ Stitch & Soul** (CCU STICH AND SOUL LLP)
+- 🧠 Deep into **LLMs, RAG pipelines, and Agentic AI** architectures
 - 🏗️ Prefer **full-stack ownership** over narrow specialization
-- 🚀 Ship fast, then iterate
-- 📖 This profile is a **living log of experiments, prototypes, and applied AI work in progress**
+- ⚡ Ship fast, then architect cleanly
 
 ---
 
@@ -228,6 +348,8 @@ Recent Work     VoteWise, CivicLens, Hybrid Agent Mesh, MindAnchor
 
 **Let's build something intelligent together.**
 
-[Open an Issue](https://github.com/aliaspiyush/aliaspiyush/issues) · [Start a Discussion](https://github.com/aliaspiyush/aliaspiyush/discussions) · [LinkedIn](https://www.linkedin.com/in/aliaspiyush)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliaspiyush)
+[![Website](https://img.shields.io/badge/Visit_Gravity_Labs-000?style=for-the-badge&logo=vercel&logoColor=white)](https://thegravitylabs.in)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliaspiyush)
 
 </div>
