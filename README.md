@@ -12,7 +12,7 @@
 
 **BCA @ Techno India University** &nbsp;&middot;&nbsp; Graduating 2027
 
-**Founder @ [Gravity Labs](https://thegravitylabs.in)** &nbsp;&middot;&nbsp; **Business Admin @ Stitch & Soul**
+**Founder @ [Gravity Labs](https://thegravitylabs.in)** &nbsp;&middot;&nbsp; **Business Admin @ Stitch &amp; Soul**
 
 <br/>
 
@@ -21,25 +21,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aliaspiyush-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliaspiyush)
 [![Website](https://img.shields.io/badge/Gravity_Labs-thegravitylabs.in-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://thegravitylabs.in)
 
-<br/>
-
-![collaborate](https://img.shields.io/badge/open_to_collaborate-22c55e?style=flat-square)
-![graduating](https://img.shields.io/badge/graduating_2027-6366f1?style=flat-square)
-![location](https://img.shields.io/badge/kolkata_india-f59e0b?style=flat-square)
-
 </td>
 <td valign="top" width="45%" align="right">
 
 <img src="https://i.ibb.co/27Bd7p8H/Chat-GPT-Image-Jul-13-2026-08-28-22-AM.png" width="100%" alt="Piyush Ghosh" />
 
 ```
- ██████╗ ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗██║╚██╗ ██╔╝██╔════╝██║  ██║
-██████╔╝██║ ╚████╔╝ ███████╗███████║
-██╔═══╝ ██║  ╚██╔╝  ╚════██║██╔══██║
-██║     ██║   ██║   ███████║██║  ██║
-╚═╝     ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-     building at the edge of AI
+██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗
+██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
+██████╔╝██║ ╚████╔╝ ██║   ██║███████╗███████║
+██╔═══╝ ██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
+██║     ██║   ██║   ╚██████╔╝███████║██║  ██║
+╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+       building at the edge of AI
 ```
 
 </td>
