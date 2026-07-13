@@ -1,14 +1,20 @@
-<div align="center">
-
-<img src="https://i.ibb.co/27Bd7p8H/Chat-GPT-Image-Jul-13-2026-08-28-22-AM.png" width="100%" alt="Piyush Ghosh Banner" />
-
-</div>
-
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="55%">
 
 # Piyush Ghosh
 
 **`< Vibe Coder >`** &nbsp;&middot;&nbsp; AI Generalist &nbsp;&middot;&nbsp; Full-Stack Builder &nbsp;&middot;&nbsp; Founder
+
+<br/>
+
+> *Architecting intelligent systems at the intersection of software, applied AI, and real-world impact.*
+
+<br/>
+
+**BCA @ Techno India University** &nbsp;&middot;&nbsp; Graduating 2027
+
+**Founder @ [Gravity Labs](https://thegravitylabs.in)** &nbsp;&middot;&nbsp; **Business Admin @ Stitch & Soul**
 
 <br/>
 
@@ -19,17 +25,18 @@
 
 <br/>
 
-> *Architecting intelligent systems at the intersection of software, applied AI, and real-world impact.*
-
-**BCA @ Techno India University** &nbsp;&middot;&nbsp; **Founder @ [Gravity Labs](https://thegravitylabs.in)** &nbsp;&middot;&nbsp; **Business Admin @ Stitch & Soul**
-
-<br/>
-
 [![Open to Collaborate](https://img.shields.io/badge/Open_to_Collaborate-yes-22c55e?style=for-the-badge&logoColor=white)](https://linkedin.com/in/aliaspiyush)
 [![Graduating](https://img.shields.io/badge/Graduating-2027-6366f1?style=for-the-badge)](https://technoindiagroup.com)
 [![Kolkata India](https://img.shields.io/badge/Kolkata-India-f59e0b?style=for-the-badge)](https://github.com/aliaspiyush)
 
-</div>
+</td>
+<td valign="top" width="45%" align="right">
+
+<img src="https://i.ibb.co/27Bd7p8H/Chat-GPT-Image-Jul-13-2026-08-28-22-AM.png" width="100%" alt="Piyush Ghosh" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
